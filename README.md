@@ -27,7 +27,9 @@ An interactive Power BI dashboard designed for real-time market analysis, integr
 
 ## 🖼️ Dashboard Preview
 
+
 ### ☀️ Light Mode
+
 
 
 
@@ -38,7 +40,11 @@ An interactive Power BI dashboard designed for real-time market analysis, integr
 
 
 
+
 ![Market Data Dashboard](https://i.postimg.cc/HsjV5C2W/Dashboard-dark.png)
+
+
+
 
 ## 📈 Usage
 
@@ -47,17 +53,3 @@ This Power BI dashboard is designed for:
 - **Analyzing**: Visualize and compare historical trends across multiple assets.
 - **Decision Making**: Use key financial metrics like prices, volumes, and trends to make data-driven decisions.
 
-## ⚙️ Setup Instructions
-
-### Prerequisites
-
-- Power BI Desktop
-- Python 3.x installed with the following libraries:
-  - `yfinance`
-  - `pandas`
-
-### Steps to Run
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/market-data-dashboard.git
